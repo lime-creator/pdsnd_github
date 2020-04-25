@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+04/25/2020
 
 ### Project Title
 Udacity bikeshare project
@@ -8,7 +8,11 @@ Udacity bikeshare project
 This project explored the bike share data in three US cities and created an interactive experience to present statistics to answer interesting questions.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity programming for data science with Python
